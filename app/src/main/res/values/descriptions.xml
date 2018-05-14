@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' descriptions -->
+    <string name="attraction_desc_1">Not only for water sports enthusiasts! There is a beautiful wild beach with sandy volleyball court running west of the wooden pier.</string>
+    <string name="attraction_desc_2">Five routes adapted to every age and growth. Nearby you can sunbathe, picnic or enjoy water sports.</string>
+    <string name="attraction_desc_3">Baroque church from 1661-1667 with a well-preserved portal and a beatiful bell tower. The church was founded by King Jan Kazimierz.</string>
+    <string name="attraction_desc_4">In a charmingly located place there are ruins of the manor house and farm buildings of the Szaniawski family. The manor house was erected in 1838. Right next to it there are remains of an old steam mill, which was one of the largest and most modern in nineteenth-century Europe.</string>
+
+    <!-- Restaurants' descriptions -->
+    <string name="restaurant_desc_1">Delicious, Polish traditional dishes.</string>
+    <string name="restaurant_desc_2">For lovers of Italian cuisine.</string>
+    <string name="restaurant_desc_3">Pizza baked in a real wood-fired oven.</string>
+    <string name="restaurant_desc_4">A varied cuisine based on seasonal products.</string>
+
+    <!-- Hotels' descriptions -->
+    <string name="hotel_desc_1">Hotel Narvil has a large spa, sports facilities and a conference center. The property is located on the banks of the Narwia River.</string>
+    <string name="hotel_desc_2">Located in a quiet and peaceful area on the southern shore of the Zegrze Reservoir, the hotel has its own beach, pier and marina.</string>
+    <string name="hotel_desc_3">Hotel Marina Diana has its own private beach. It offers bright rooms with free Wi-Fi, as well as water sports equipment.</string>
+
+    <!-- Rentals' descriptions -->
+    <string name="rental_desc_1">The fleet available for charter consists of Omega, RS Vision, RS Vareo and catamarans. The rental company also offers rowing boats and kayaks.</string>
+    <string name="rental_desc_2">The largest windsurfing center on The Zegrze Reservoir. The main area of its activity is teaching windsurfing and running a professional rental.</string>
+    <string name="rental_desc_3">The rental company offers motorboats, pedal boats and kayaks.</string>
+
+</resources>

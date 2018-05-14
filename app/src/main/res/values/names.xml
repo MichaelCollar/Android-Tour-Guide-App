@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' names [CHAR LIMIT=40] -->
+    <string name="attraction_name_1">The Zegrze Reservoir</string>
+    <string name="attraction_name_2">Ropes course</string>
+    <string name="attraction_name_3">Church of the Immaculate Conception</string>
+    <string name="attraction_name_4">Szaniawski Manor House</string>
+
+    <!-- Restaurants' names [CHAR LIMIT=40] -->
+    <string name="restaurant_name_1">Zaglobianka</string>
+    <string name="restaurant_name_2">Pizzeria / restaurant Dolce Vita</string>
+    <string name="restaurant_name_3">Pizzeria Habanero</string>
+    <string name="restaurant_name_4">Port Tavern</string>
+
+    <!-- Hotels' names [CHAR LIMIT=40] -->
+    <string name="hotel_name_1">Hotel Narvil</string>
+    <string name="hotel_name_2">Hotel 500</string>
+    <string name="hotel_name_3">Hotel Marina Diana</string>
+
+    <!-- Rentals' names [CHAR LIMIT=40] -->
+    <string name="rental_name_1">Miedzy Zaglami</string>
+    <string name="rental_name_2">LSURF</string>
+    <string name="rental_name_3">Water Club</string>
+
+</resources>

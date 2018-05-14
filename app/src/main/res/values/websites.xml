@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' websites [CHAR LIMIT=40] -->
+    <string name="attraction_website_1">www.jezioro.zegrzynskie.pl</string>
+    <string name="attraction_website_2">www.park-radocha.pl</string>
+    <string name="attraction_website_3">www.parafia-nieporet.pl</string>
+    <string name="attraction_website_4">www.polskaniezwykla.pl</string>
+
+    <!-- Restaurants' websites [CHAR LIMIT=40] -->
+    <string name="restaurant_website_1">www.zaglobianka.pl</string>
+    <string name="restaurant_website_2">www.dolcevita-nieporet.pl</string>
+    <string name="restaurant_website_3">www.gastronomiahabanero.pl</string>
+    <string name="restaurant_website_4">www.tawernanieporet.pl</string>
+
+    <!-- Hotels' websites [CHAR LIMIT=40] -->
+    <string name="hotel_website_1">www.hotelnarvil.pl</string>
+    <string name="hotel_website_2">www.hotel500.com.pl/zegrze</string>
+    <string name="hotel_website_3">www.marinadiana.pl</string>
+
+    <!-- Rentals' websites CHAR LIMIT=40] -->
+    <string name="rental_website_1">www.miedzyzaglami.pl</string>
+    <string name="rental_website_2">www.lsurf.pl</string>
+    <string name="rental_website_3">www.water-club.pl</string>
+
+</resources>
